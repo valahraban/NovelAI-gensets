@@ -8,4 +8,4 @@ I'm quite set in my ways. I use prosey AI generators to write stories and have a
 
 # Other Presets
 Other presets I found useful are shared as well. They tend to be tweaks on the default presets. If you find a preset here with a name from the default NovelAI gensets, it's closely based on the original, with tweaks that I personally found to perform better and result in more enjoyable prose generations.
-Sigurd and older models do not have presets provided by me here. This is because the default Storywriter provided in NAI is my original work, based on a paper I read about settings that researchers found optimal for the GPT2XL model.
+Sigurd and older models do not have presets provided by me here. This is because the default Storywriter preset provided in NAI is my original work, based on a paper I read about settings that researchers found optimal for the GPT2XL model.
