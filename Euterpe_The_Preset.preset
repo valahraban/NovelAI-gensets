@@ -1,0 +1,50 @@
+{
+  "presetVersion": 3,
+  "name": "The Preset",
+  "id": "49142afb-60ef-4709-951b-85116b86f998",
+  "remoteId": "",
+  "parameters": {
+    "textGenerationSettingsVersion": 3,
+    "temperature": 1.04,
+    "max_length": 40,
+    "min_length": 1,
+    "top_k": 300,
+    "top_p": 1,
+    "top_a": 0.06,
+    "typical_p": 0.983,
+    "tail_free_sampling": 0.958,
+    "repetition_penalty": 1.05,
+    "repetition_penalty_range": 512,
+    "repetition_penalty_slope": 0.1,
+    "repetition_penalty_frequency": 0.04,
+    "repetition_penalty_presence": 0,
+    "repetition_penalty_default_whitelist": false,
+    "order": [
+      {
+        "id": "typical_p",
+        "enabled": true
+      },
+      {
+        "id": "temperature",
+        "enabled": true
+      },
+      {
+        "id": "top_k",
+        "enabled": true
+      },
+      {
+        "id": "top_p",
+        "enabled": true
+      },
+      {
+        "id": "tfs",
+        "enabled": true
+      },
+      {
+        "id": "top_a",
+        "enabled": true
+      }
+    ]
+  },
+  "model": "euterpe-v2"
+}
