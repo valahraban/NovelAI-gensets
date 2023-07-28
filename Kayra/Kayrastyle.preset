@@ -10,7 +10,7 @@
     "min_length": 1,
     "top_k": 130,
     "top_p": 0.98,
-    "top_a": 0.055,
+    "top_a": 0.057,
     "typical_p": 1,
     "tail_free_sampling": 0.95,
     "repetition_penalty": 1.5,
