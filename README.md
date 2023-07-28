@@ -1,10 +1,9 @@
 # NovelAI-gensets
-I will eventually migrate and backup my generation setting presets for NovelAI here.  
-Right now my work and a lot of other useful content published by users is available on their discord.  
+Generation setting prests by me for NAI models. My work and a lot of other useful content published by users is available on their discord.  
 https://discord.gg/novelai
 
 # The Preset Series
-I'm quite set in my ways. I use prosey AI generators to write stories and have a bunch of lorebooks set up to enforce my style and diversify the story vocabulary. Presets with minimal temperature and repetition penalty tweaks are good for allowing the base strengths of the model to shine. The tweaked samplers are only used as a mitigation strategy against looping that may occur when hitting generate multiple times in a row. Every model needs their own preset and finetuning. The Preset series always follows the same concept and principles though. If you have downloaded one of my Presets before, I recommend grabbing the version provided here on github. I updated and sometimes tweaked the values for this release, so they may differ from old verions I posted on discord.  
+I primarily use prosey AI generators to write stories and have a bunch of lorebooks set up to enforce my style and diversify the story vocabulary. Presets with minimal temperature and repetition penalty tweaks are good for allowing the base strengths of the model to shine. The tweaked samplers are only used as a mitigation strategy against looping that may occur when hitting generate multiple times in a row. Every model needs their own preset and finetuning. The Preset series always follows the same concept and principles though. If you have downloaded one of my Presets before, I recommend grabbing the version provided here on github. I updated and sometimes tweaked the values for this release, so they may differ from old verions I posted on discord.  
 
 If a model has the option to "Use Default Whitelist" for tokens, make sure that it is enabled.  
   
