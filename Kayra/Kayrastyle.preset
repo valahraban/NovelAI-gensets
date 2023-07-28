@@ -1,12 +1,12 @@
 {
   "presetVersion": 3,
   "name": "Kayrastyle",
-  "id": "71ee90d2-11bd-4aca-863d-0a244764ccfa",
+  "id": "26d80783-187c-4bf4-9adb-50fb70c0a422",
   "remoteId": "",
   "parameters": {
     "textGenerationSettingsVersion": 4,
     "temperature": 1.18,
-    "max_length": 49,
+    "max_length": 40,
     "min_length": 1,
     "top_k": 130,
     "top_p": 0.98,
@@ -20,7 +20,7 @@
     "repetition_penalty_presence": 0,
     "repetition_penalty_default_whitelist": true,
     "cfg_scale": 1,
-    "cfg_uc": "",
+    "cfg_uc": "[ Style: bad writing, what even is this, wtf, typos, bad, awful ]\nhe walked. he ran. he screamed. he wuz lost. it was hopeles.\nhe said, \"theres no way out.\"\nshe said, \"ur doomed lul.\"",
     "phrase_rep_pen": "medium",
     "order": [
       {
