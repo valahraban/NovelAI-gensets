@@ -1,5 +1,5 @@
 # NovelAI-gensets
-Generation setting prests by me for NAI models. My work and a lot of other useful content published by users is available on their discord.  
+Generation setting presets by me for NAI models. My work and a lot of other useful content published by users is available on their discord.  
 https://discord.gg/novelai
 
 # The Preset Series
