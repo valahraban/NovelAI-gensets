@@ -1,0 +1,68 @@
+{
+  "presetVersion": 3,
+  "name": "Kayrastyle Unleashed",
+  "id": "14b1c76b-7c41-4cb8-bd9e-3dfca31c1e16",
+  "remoteId": "",
+  "parameters": {
+    "textGenerationSettingsVersion": 5,
+    "temperature": 1.18,
+    "max_length": 150,
+    "min_length": 1,
+    "top_k": 130,
+    "top_p": 1,
+    "top_a": 0.06,
+    "typical_p": 0.96,
+    "tail_free_sampling": 0.97,
+    "repetition_penalty": 1.5,
+    "repetition_penalty_range": 4096,
+    "repetition_penalty_slope": 0,
+    "repetition_penalty_frequency": 0.0027,
+    "repetition_penalty_presence": 0,
+    "repetition_penalty_default_whitelist": true,
+    "cfg_scale": 1,
+    "cfg_uc": "[ Style: bad writing, what even is this, wtf, typos, bad, awful ]\nhe walked. he ran. he screamed. he wuz lost. it was hopeles.\nhe said, \"theres no way out.\"\nshe said, \"ur doomed lul.\"",
+    "phrase_rep_pen": "medium",
+    "top_g": 0,
+    "mirostat_tau": 3.6,
+    "mirostat_lr": 0.48697,
+    "order": [
+      {
+        "id": "cfg",
+        "enabled": true
+      },
+      {
+        "id": "mirostat",
+        "enabled": true
+      },
+      {
+        "id": "typical_p",
+        "enabled": true
+      },
+      {
+        "id": "temperature",
+        "enabled": true
+      },
+      {
+        "id": "top_p",
+        "enabled": true
+      },
+      {
+        "id": "tfs",
+        "enabled": true
+      },
+      {
+        "id": "top_a",
+        "enabled": true
+      },
+      {
+        "id": "top_k",
+        "enabled": true
+      },
+      {
+        "id": "top_g",
+        "enabled": false
+      }
+    ]
+  },
+  "model": "kayra-v1"
+}
