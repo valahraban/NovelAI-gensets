@@ -13,6 +13,8 @@ NovelAI's new models based on their NAILM base once again have unique weights fo
 Kayrastyle uses conventional sampling methods before NovelAI added new ones to their stack. It's a very comfortable generation preset similar to previous renditions of the Preset in my opinion.  
   
 Kayrastyle Unleashed is my latest and greatest generation preset, integrating mirostat sampling values optimized together with Basileus. You should definitely use it for Kayra, maybe even move the values over to Clio if you still use the smaller model. As with previous presets, if you're using many Lorebooks, you should turn on DRPR and the default token whitelist. This is especially true if you're on the Scroll or Tablet subscription.  
+  
+Kayrastyle ST is based on Unleashed meant to be used with SillyTavern. It's slightly more creative than the regular version and generates diverse, interesting and steamy situations when used with SillyTavern, especially with Prose Augmenter module turned on. It is more prone to run-on sentences with said module though so be sure to keep a careful eye on the output quality.  
 
 # Other Presets
 Other presets I found useful are shared as well. They tend to be tweaks on the default presets. If you find a preset here with a name from the default NovelAI gensets, it's closely based on the original, with tweaks that I personally found to perform better and result in more enjoyable prose generations.
