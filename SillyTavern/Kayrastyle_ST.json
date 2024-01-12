@@ -1,0 +1,32 @@
+{
+    "temperature": "1.20",
+    "repetition_penalty": "1.80",
+    "repetition_penalty_range": "5120",
+    "repetition_penalty_slope": 2.33,
+    "repetition_penalty_frequency": "0.010",
+    "repetition_penalty_presence": 0,
+    "tail_free_sampling": "0.957",
+    "top_k": "150",
+    "top_p": "0.990",
+    "top_a": "0.060",
+    "typical_p": "0.976",
+    "min_length": "1",
+    "preamble": "[ Style: prose, engaging dialogue, flowery, vivid, engages senses, visceral, descriptive, stirring ]",
+    "prefix": "special_proseaugmenter",
+    "cfg_uc": "",
+    "banned_tokens": "",
+    "order": [
+        0,
+        2,
+        8,
+        3,
+        4
+    ],
+    "logit_bias": [],
+    "phrase_rep_pen": "medium",
+    "cfg_scale": "1.00",
+    "mirostat_lr": "0.49",
+    "mirostat_tau": "4.00",
+    "genamt": 817,
+    "max_length": 8192
+}
